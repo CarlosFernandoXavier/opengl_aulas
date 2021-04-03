@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\Carlos\Documents\Unisinos\7º semestre-opcionais\Processamento gráfico\projetos\Exibir2Triangulos\Origem.cpp(196,2): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+  Exibir2Triangulos.vcxproj -> C:\Users\Carlos\Documents\Unisinos\7º semestre-opcionais\Processamento gráfico\projetos\Exibir2Triangulos\x64\Debug\Exibir2Triangulos.exe
