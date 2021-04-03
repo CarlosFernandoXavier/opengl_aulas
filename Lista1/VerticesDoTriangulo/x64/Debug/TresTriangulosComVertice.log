@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\Carlos\Documents\Unisinos\7º semestre-opcionais\Processamento gráfico\projetos\TresTriangulosComVertice\Origem.cpp(193,2): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+  TresTriangulosComVertice.vcxproj -> C:\Users\Carlos\Documents\Unisinos\7º semestre-opcionais\Processamento gráfico\projetos\TresTriangulosComVertice\x64\Debug\TresTriangulosComVertice.exe
