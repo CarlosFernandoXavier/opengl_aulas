@@ -101,7 +101,7 @@ int main()
 		model = glm::rotate(model, (GLfloat)glfwGetTime(), glm::vec3(0.0f, 0.0f, 1.0f));
 
 		//Matriz ortográfica - Câmera 2D
-		ortho = glm::ortho(-10.0f, 10.0f, -10.0f, 10.0f, -1.0f, 1.0f);
+		ortho = glm::ortho(-5.0f, 5.0f, -5.0f, 5.0f, -1.0f, 1.0f);
 
 		// Obtem seus identificadores de localização no shader
 		GLint modelLoc = glGetUniformLocation(shader.ID, "model");
@@ -209,4 +209,3 @@ int setupGeometry()
 
 	return VAO;
 }
-
